@@ -1,6 +1,6 @@
 # The Game of Pong
 
-![dayp01](misc/rus/images/dayp01.png)
+![pong](img/pong.png)
 
 
 ***Разработать программу src/pong.c, представляющую из себя игру для двух 
